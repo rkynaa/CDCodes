@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446433784405",
+    "firebase_url": "https://absentoffice-1973d.firebaseio.com",
+    "project_id": "absentoffice-1973d",
+    "storage_bucket": "absentoffice-1973d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446433784405:android:d62cf0fb8d96f5f5",
+        "android_client_info": {
+          "package_name": "com.example.absentoffice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446433784405-i3jgt4eqit74r3ohvoeeig8vlgmdmkvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.absentoffice",
+            "certificate_hash": "553b976820b781f6a235f3a73e31ef1345e6f123"
+          }
+        },
+        {
+          "client_id": "446433784405-uuhcvr29ndedgq74tp4cmac6ae2o66ml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn0UG6QskExnRfTy9EMqlcZg1VLxQajoI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446433784405-uuhcvr29ndedgq74tp4cmac6ae2o66ml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
